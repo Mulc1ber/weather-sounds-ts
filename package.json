@@ -2,6 +2,7 @@
   "name": "weather-sounds-ts",
   "version": "1.0.0",
   "main": "app.ts",
+  "homepage": "https://mulc1ber.github.io/weather-sounds-ts",
   "scripts": {
     "start": "npx webpack serve --config webpack.config.dev.js",
     "build": "npx webpack --config webpack.config.prod.js",
